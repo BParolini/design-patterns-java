@@ -17,10 +17,6 @@ public class Singleton {
     }
 
     public String getMessage() {
-        return "Hello World from Singleton class!";
-    }
-
-    public String getMessage() {
         return "Hello world from Singleton class!";
     }
 }
