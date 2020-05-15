@@ -1,4 +1,5 @@
 rootProject.name = 'design-patterns-java'
 include 'Singleton'
 include 'Factory'
+include 'Observer'
 
