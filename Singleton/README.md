@@ -13,4 +13,4 @@ We're going to create a SingleObject class. SingleObject class have its construc
 
 SingleObject class provides a static method to get its static instance to outside world. SingletonPatternDemo, our demo class will use SingleObject class to get a SingleObject object.
 
-<img src="https://www.tutorialspoint.com/design_pattern/images/singleton_pattern_uml_diagram.jpg" alt="Factory Pattern" style="display: block; margin: auto;" />
+![Singleton Pattern](https://www.tutorialspoint.com/design_pattern/images/singleton_pattern_uml_diagram.jpg)
