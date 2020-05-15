@@ -19,5 +19,10 @@ public class HatFactoryTest {
         Assertions.assertTrue(fez.hatDesign().toLowerCase().contains("fez"));
         Assertions.assertTrue(bowler.hatDesign().toLowerCase().contains("bowler"));
         Assertions.assertTrue(newsboy.hatDesign().toLowerCase().contains("newsboy"));
+
+        System.out.println(fedora.hatDesign());
+        System.out.println(fez.hatDesign());
+        System.out.println(bowler.hatDesign());
+        System.out.println(newsboy.hatDesign());
     }
 }
