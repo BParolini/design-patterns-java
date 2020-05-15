@@ -13,4 +13,4 @@ We're going to create a Shape interface and concrete classes implementing the Sh
 
 FactoryPatternDemo, our demo class will use ShapeFactory to get a Shape object. It will pass information (CIRCLE / RECTANGLE / SQUARE) to ShapeFactory to get the type of object it needs.
 
-<img src="https://www.tutorialspoint.com/design_pattern/images/factory_pattern_uml_diagram.jpg" alt="Factory Pattern" style="display: block; margin: auto;" />
+![Factory Pattern](https://www.tutorialspoint.com/design_pattern/images/factory_pattern_uml_diagram.jpg)
