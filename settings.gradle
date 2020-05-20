@@ -3,4 +3,5 @@ include 'Singleton'
 include 'Factory'
 include 'Observer'
 include 'Builder'
+include 'Composite'
 
