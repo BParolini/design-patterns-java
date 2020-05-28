@@ -8,14 +8,10 @@ public final class HatFactory {
 
     public static Hat getHat(HatType hatType) {
         return switch (hatType) {
-            case FEDORA:
-                yield new Fedora();
-            case FEZ:
-                yield new Fez();
-            case BOWLER:
-                yield new Bowler();
-            case NEWSBOY:
-                yield new Newsboy();
+            case FEDORA -> new Fedora();
+            case FEZ -> new Fez();
+            case BOWLER -> new Bowler();
+            case NEWSBOY -> new Newsboy();
         };
     }
 }
